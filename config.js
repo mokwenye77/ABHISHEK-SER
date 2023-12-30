@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918714504817', 'GOJO SATORU', true],
+  ['2349160880639', 'MARVEL', true],
   [''],
   [''] 
 ] //Number of owners
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Kriss'
+global.botname = 'LUCIFER'
 global.premium = 'true'
-global.packname = 'Kriss' 
-global.author = 'kriss' 
+global.packname = 'LUCIFER' 
+global.author = 'MARVEL' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
